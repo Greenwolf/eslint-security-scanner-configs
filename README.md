@@ -16,11 +16,13 @@ Jacob Wilkin
 # Credits: 
 ## Lewis Arden - Inspiration & Initial Config file code
 prototype-pollution-security-rules: https://github.com/LewisArdern/eslint-plugin-prototype-pollution-security-rules
+
 angularjs-security-rules: https://github.com/LewisArdern/eslint-plugin-angularjs-security-rules
 
 ## mozfreddyb
-### scanjs-rules: https://github.com/mozfreddyb/eslint-plugin-scanjs-rules
-### no-wildcard-postmessage: https://github.com/mozfreddyb/eslint-plugin-no-wildcard-postmessage
+scanjs-rules: https://github.com/mozfreddyb/eslint-plugin-scanjs-rules
+
+no-wildcard-postmessage: https://github.com/mozfreddyb/eslint-plugin-no-wildcard-postmessage
 
 ## mozilla
 no-unsanitized: https://github.com/mozilla/eslint-plugin-no-unsanitized
