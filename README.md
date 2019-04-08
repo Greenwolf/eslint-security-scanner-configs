@@ -14,19 +14,19 @@ npm i -g eslint eslint-plugin-standard eslint-plugin-import eslint-plugin-node e
 Jacob Wilkin
 
 # Credits: 
-Lewis Arden - Inspiration & Initial Config file code
+## Lewis Arden - Inspiration & Initial Config file code
 prototype-pollution-security-rules: https://github.com/LewisArdern/eslint-plugin-prototype-pollution-security-rules
 angularjs-security-rules: https://github.com/LewisArdern/eslint-plugin-angularjs-security-rules
 
-mozfreddyb
+## mozfreddyb
 scanjs-rules: https://github.com/mozfreddyb/eslint-plugin-scanjs-rules
 no-wildcard-postmessage: https://github.com/mozfreddyb/eslint-plugin-no-wildcard-postmessage
 
-mozilla
+## mozilla
 no-unsanitized: https://github.com/mozilla/eslint-plugin-no-unsanitized
 
-nodesecurity
+## nodesecurity
 security: https://github.com/nodesecurity/eslint-plugin-security
 
-yannickcr
+## yannickcr
 react: https://github.com/yannickcr/eslint-plugin-react
