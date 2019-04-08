@@ -20,11 +20,10 @@ $ eslint -c eslintrc-light.js demo.js
 ```
 
 # Usage 
-
+```
 cd eslint-security-scanner-configs
-
 eslint -c eslintrc-light.js ./myjavascript.js
-
+```
 
 
 # Author
