@@ -8,6 +8,17 @@ npm i -g eslint eslint-plugin-standard eslint-plugin-import eslint-plugin-node e
 
 git clone https://github.com/Greenwolf/eslint-security-scanner-configs
 
+To verify everything is working correcting, run the following to see if you get the expected output
+```
+$ eslint -c eslintrc-light.js demo.js
+
+/eslint-security-scanner-configs/demo.js
+  2:1  error  Unsafe assignment to innerHTML  no-unsanitized/property
+  5:1  error  Unsafe assignment to innerHTML  no-unsanitized/property
+
+✖ 2 problems (2 errors, 0 warnings)
+```
+
 # Usage 
 
 cd eslint-security-scanner-configs
