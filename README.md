@@ -11,7 +11,7 @@ npm i -g eslint eslint-plugin-standard eslint-plugin-import eslint-plugin-node e
 
 
 # Author
-**Jacob Wilkin**
+* **Jacob Wilkin** - *Research and Development* - [Trustwave SpiderLabs](https://github.com/SpiderLabs)
 
 # Credits
 **Lewis Arden - Inspiration & Initial Config file code** <br/>
