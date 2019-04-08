@@ -14,7 +14,7 @@ npm i -g eslint eslint-plugin-standard eslint-plugin-import eslint-plugin-node e
 ## Jacob Wilkin
 
 # Credits
-*Lewis Arden - Inspiration & Initial Config file code* <br/>
+**Lewis Arden - Inspiration & Initial Config file code** <br/>
 prototype-pollution-security-rules: https://github.com/LewisArdern/eslint-plugin-prototype-pollution-security-rules <br/>
 angularjs-security-rules: https://github.com/LewisArdern/eslint-plugin-angularjs-security-rules
 
