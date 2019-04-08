@@ -8,7 +8,7 @@ npm i -g eslint eslint-plugin-standard eslint-plugin-import eslint-plugin-node e
 
 git clone https://github.com/Greenwolf/eslint-security-scanner-configs
 
-To verify everything is working correcting, run the following to see if you get the expected output
+## To verify everything is working correcting, run the following to see if you get the expected output
 ```
 $ eslint -c eslintrc-light.js demo.js
 
