@@ -1,2 +1,2 @@
 # eslint-scanner-configs
-eslintrc.js config files for running static analysis on JavaScript to identify security issues.
+Config files to turn ESLint into a mini Security Scanner for running static analysis on JavaScript to identify bugs and vulnerabilities.
