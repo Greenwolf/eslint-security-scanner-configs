@@ -26,7 +26,7 @@ eslint -c eslintrc-light.js ./myjavascript.js
 
 
 ## Author
-* **Jacob Wilkin** - *Research and Development* - [Trustwave SpiderLabs](https://github.com/SpiderLabs)
+* [**Jacob Wilkin**](https://github.com/Greenwolf) - *Research and Development* - [Trustwave SpiderLabs](https://github.com/SpiderLabs)
 
 ## Credits
 * **Lewis Arden** - *Inspiration & Initial Config file code* <br/>
