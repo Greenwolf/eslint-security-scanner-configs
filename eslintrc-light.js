@@ -4,11 +4,17 @@ module.exports = {
     "es6" : true /** all es6 features except modules */
   },
   "plugins" : [
+    // use plugin to handle html files
+    "html",
     // Standard Rules
     "scanjs-rules",
     "no-unsanitized",
     "prototype-pollution-security-rules"
   ],
+  "settings": {
+        // setting to enable different html file types
+        "html/html-extensions": [".html", ".htm"],
+  },
   "rules" : {
     /** useful rules from eslint **/
 
