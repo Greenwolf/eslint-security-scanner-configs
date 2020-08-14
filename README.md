@@ -1,6 +1,8 @@
 # eslint-scanner-configs
 This project contains config files to turn ESLint into a mini Security Scanner for running static analysis on JavaScript to identify bugs and vulnerabilities.
 
+It can also be run on entire sites or specific libraries. It supports .js .htm and .html files by default, but can be edited to include more.
+
 ## Installation
 ```
 brew install npm
@@ -18,10 +20,11 @@ $ eslint -c eslintrc-light.js demo.js
 ✖ 2 problems (2 errors, 0 warnings)
 ```
 
-## Usage 
+## Usage (.js file and on a vulnerable package/directory)
 ```
 cd eslint-security-scanner-configs
 eslint -c eslintrc-light.js ./myjavascript.js
+eslint --ext .html,.htm,.js -c eslint-security-scanner-configs/eslintrc-light.js ./lodash-3.9.3/
 ```
 
 
