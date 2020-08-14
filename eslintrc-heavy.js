@@ -4,6 +4,8 @@ module.exports = {
     "es6" : true /** all es6 features except modules */
   },
   "plugins" : [
+    // use plugin to handle html files
+    "html",
     // Standard Rules
     "scanjs-rules",
     "no-unsanitized",
@@ -20,6 +22,10 @@ module.exports = {
     /** security (include all nodeJS rules) rules**/
     "plugin:security/recommended",
   ],
+  "settings": {
+        // setting to enable different html file types
+        "html/html-extensions": [".html", ".htm"],  // consider .html and .we files as HTML
+  },
   "rules" : {
     /** useful rules from eslint **/
 
